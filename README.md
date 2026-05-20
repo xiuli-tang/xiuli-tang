@@ -1,23 +1,21 @@
-<!-- 顶部动态炫酷 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=你好+我是xiuli;欢迎来到我的数字化空间;用数据和智能探索科学边界" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=你好+我是+AI4S+研究员;欢迎来到我的数字化空间;用数据和智能探索科学边界" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔬 关于我 / About Me
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       🎒 <b>背景：</b> 专注于数据科学与金融交叉领域的交叉学科研究者<br/><br/>
       🎯 <b>方向：</b> AI for Science (AI4S) | 新材料高吞吐量筛选 | 智能视觉计算<br/><br/>
       🛠️ <b>核心：</b> 致力于通过主动学习与图神经网络加速前沿科学发现<br/><br/>
       🎨 <b>美学：</b> 偏爱具有叙事感与沉浸式交互的数字视听表达
     </td>
-    <td width="40%" valign="top" align="center">
-      <!-- 右侧点缀：正在写代码的动态小人 -->
-      <img src="https://assets.tokyodev.com/images/charts-and-graphs-hero-v2.gif" width="200"/>
+    <td width="35%" valign="top" align="center">
+      <img src="https://assets.tokyodev.com/images/charts-and-graphs-hero-v2.gif" width="180"/>
     </td>
   </tr>
 </table>
@@ -42,22 +40,16 @@
 
 ## 📊 动态数据看板 / Dashboard
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=gotham&langs_count=6" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=gotham&langs_count=6" />
+</p>
 
 ---
 
 ## 🎮 绿墙贪吃蛇 / Contribution Snake
 
-<!-- 动态捕获你的全网贡献，将其转化为贪吃蛇动画 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
