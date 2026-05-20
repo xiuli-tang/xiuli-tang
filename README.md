@@ -73,11 +73,8 @@ I enjoy working on backend systems, frontend interfaces, and small experimental 
 # 🔥 Contribution
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg"
-  />
+  <img src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 
 # 📫 Contact
