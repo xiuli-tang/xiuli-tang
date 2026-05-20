@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 Hi, I’m Xiuli Tang.
 
@@ -18,7 +18,7 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 🧭 Focus
+# Focus
 
 - Web application development  
 - System design & backend engineering  
@@ -27,7 +27,7 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 **Languages**
 - Python · Java · JavaScript · C++
@@ -37,30 +37,6 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 **Tools**
 - Git · Docker · Linux
-
----
-
-# 📊 GitHub Data
-
-<p align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=default&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=default&hide_border=true"
-/>
-
-</p>
-
----
-
-# 📊 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"/>
 
 ---
 
@@ -96,7 +72,7 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 📊 GitHub Insights (Advanced)
+# GitHub Insights (Advanced)
 
 <p align="center">
 
@@ -108,12 +84,12 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 📫 Contact
+# Contact
 
 - GitHub: https://github.com/xiuli-tang
 
 ---
 
-# ⚡ Note
+# Note
 
 This profile is continuously evolving.
