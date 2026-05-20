@@ -58,17 +58,15 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 📈 Activity Overview
+# 📊 Activity
 
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"
-/>
-
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"/>
 
 ---
+
+# 🟩 Contributions
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xiuli-tang&theme=github-light&hide_border=true"/>
 
 # 🧠 Development Metrics
 
