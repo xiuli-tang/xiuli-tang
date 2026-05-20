@@ -64,10 +64,12 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 ---
 
-# 🟩 Contributions
+# 🟩 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&hide_title=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"
+  />
 </p>
 
 # 🧠 Development Metrics
