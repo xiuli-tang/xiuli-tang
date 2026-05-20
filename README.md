@@ -66,7 +66,9 @@ I enjoy building software systems, exploring ideas through code, and turning con
 
 # 🟩 Contributions
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xiuli-tang&theme=github-light&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&hide_title=true&hide_border=true" />
+</p>
 
 # 🧠 Development Metrics
 
