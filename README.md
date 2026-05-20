@@ -1,6 +1,6 @@
 <!-- 顶部动态炫酷 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=⚡+Hello%2C+I'm+an+AI4S+Researcher;🚀+Welcome+to+my+Digital+Space;✨+Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=你好+我是xiuli;欢迎来到我的数字化空间;用数据和智能探索科学边界" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,16 +42,13 @@
 
 ## 📊 动态数据看板 / Dashboard
 
-<!-- 利用 HTML 表格让卡片完美并排，拒绝杂乱 -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <!-- 个人核心数据统计（Gotham极客主题） -->
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <!-- 常用语言饼图（Gotham极客主题） -->
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=gotham&langs_count=6" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=gotham&langs_count=6" />
     </td>
   </tr>
 </table>
@@ -62,11 +59,11 @@
 
 <!-- 动态捕获你的全网贡献，将其转化为贪吃蛇动画 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=xiuli-tang&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
