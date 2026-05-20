@@ -13,18 +13,49 @@
 
 # About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+# 👋 About Me
 
-### Research Interests
+<p align="center">
 
-- AI for Science (AI4S)
-- 高通量材料筛选
-- 图神经网络（GNN）
-- 主动学习（Active Learning）
-- 智能视觉计算
-- 多模态科学智能体
+Data Explorer · Creative Developer · Tech Enthusiast
+
+</p>
+
+---
+
+## 🌌 Interests
+
+<p align="center">
+
+💻 Programming & System Design  
+🎨 Interactive Visual Experience  
+🌐 Frontend Creativity & Digital Aesthetics  
+📊 Data Analysis & Intelligent Computing  
+🚀 Exploring Technology and Innovation  
+
+</p>
+
+---
+
+## ⚡ Currently
+
+```python
+Profile = {
+    "Focus": [
+        "Full-stack Development",
+        "Data Visualization",
+        "Interactive Design",
+        "Open Source Exploration"
+    ],
+
+    "Learning": [
+        "Machine Learning",
+        "Computer Vision",
+        "Creative Coding"
+    ],
+
+    "Goal": "Building meaningful and immersive digital experiences"
+}
 
 ---
 
