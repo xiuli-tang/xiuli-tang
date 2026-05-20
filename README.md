@@ -1,61 +1,133 @@
+<!-- ========================= -->
+<!--      AI4S GitHub README   -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=你好+我是+AI4S+研究员;欢迎来到我的数字化空间;用数据和智能探索科学边界" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=你好+我是+AI4S+研究员;Welcome+to+my+Digital+Lab;用数据与智能探索科学边界" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
 
-## 🔬 关于我 / About Me
+# About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      🎒 <b>背景：</b> 专注于数据科学与金融交叉领域的交叉学科研究者<br/><br/>
-      🎯 <b>方向：</b> AI for Science (AI4S) | 新材料高吞吐量筛选 | 智能视觉计算<br/><br/>
-      🛠️ <b>核心：</b> 致力于通过主动学习与图神经网络加速前沿科学发现<br/><br/>
-      🎨 <b>美学：</b> 偏爱具有叙事感与沉浸式交互的数字视听表达
-    </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://assets.tokyodev.com/images/charts-and-graphs-hero-v2.gif" width="180"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Research Interests
+
+- AI for Science (AI4S)
+- 高通量材料筛选
+- 图神经网络（GNN）
+- 主动学习（Active Learning）
+- 智能视觉计算
+- 多模态科学智能体
+
+---
+
+### Current Focus
+
+- 用 AI 加速科学发现
+- 构建具有物理约束的 AI 系统
+- 科研可视化与沉浸式交互设计
+- AI + Scientific Discovery
+
+---
+
+### Philosophy
+
+> “科学不仅是计算，  
+> 更是对未知世界的视觉化理解。”
+
+</td>
+
+<td width="35%" align="center">
+
+<img 
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZmdjRjN2VhOWM3dGV4a2d2Y3VnZXN6MmQ4dHJ3bW5rYTZ3MXUxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" 
+  width="220"
+/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ 技术栈 / Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## AI / Data Science
 
-### 🌐 Frontend & Interaction
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p>
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-## 📊 动态数据看板 / Dashboard
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=gotham&langs_count=6" />
 </p>
 
 ---
 
-## 🎮 绿墙贪吃蛇 / Contribution Snake
+## Frontend / Interaction
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg" alt="Snake" />
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
 </p>
 
 ---
 
+# GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiuli-tang&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
+/>
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
+
 </p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=xiuli-tang&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg" 
+    alt="snake animation"
+  />
+</p>
+
+---
+
+# Research Vision
+
+```text
+AI × Science × Visualization
