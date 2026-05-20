@@ -3,9 +3,9 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=你好+我是+AI4S+研究员;Welcome+to+my+Digital+Lab;用数据与智能探索科学边界" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=%E4%BD%A0%E5%A5%BD+%E6%88%91%E6%98%AF+AI4S+Researcher;Welcome+to+my+Digital+Lab;Exploring+Science+with+AI"
+    alt="Typing SVG"
   />
 </p>
 
