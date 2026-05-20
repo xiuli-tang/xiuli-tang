@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+I'm+Xiuli+Tang;Welcome+to+my+GitHub;Keep+building+keep+learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+I'm+Xiuli+Tang;Welcome+to+my+GitHub;Building+things+with+code"
   />
 </p>
 
@@ -14,45 +14,33 @@
 
 Hi, I’m Xiuli Tang.
 
-I’m interested in building things with code and exploring how software can be used to create useful and interesting systems.
-
-I enjoy working on backend systems, frontend interfaces, and small experimental projects.
+I enjoy building software systems, exploring ideas through code, and turning concepts into working products.
 
 ---
 
-# 🧭 What I Do
+# 🧭 Focus
 
-- Build web applications and tools  
-- Work on data-related projects  
-- Explore system design and software architecture  
-- Try out new technologies through small projects  
+- Web application development  
+- System design & backend engineering  
+- Data-driven applications  
+- Interactive UI / frontend design  
 
 ---
 
 # 🛠 Tech Stack
 
-**Languages & Tools**
-
-- Python  
-- Java  
-- JavaScript  
-- C++  
+**Languages**
+- Python · Java · JavaScript · C++
 
 **Frameworks**
+- React · Node.js · Spring Boot
 
-- React  
-- Node.js  
-- Spring Boot  
-
-**Others**
-
-- Linux  
-- Git  
-- Docker  
+**Tools**
+- Git · Docker · Linux
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Data
 
 <p align="center">
 
@@ -70,11 +58,52 @@ I enjoy working on backend systems, frontend interfaces, and small experimental 
 
 ---
 
-# 🔥 Contribution
+# 📈 Activity Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiuli-tang/xiuli-tang/output/github-contribution-grid-snake.svg"/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"
+/>
+
 </p>
+
+---
+
+# 🧠 Development Metrics
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiuli-tang&theme=github"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiuli-tang&theme=github"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiuli-tang&theme=github"
+/>
+
+</p>
+
+---
+
+# 📊 GitHub Insights (Advanced)
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=xiuli-tang&theme=default&hide_border=true"
+/>
+
+</p>
+
 ---
 
 # 📫 Contact
@@ -85,4 +114,4 @@ I enjoy working on backend systems, frontend interfaces, and small experimental 
 
 # ⚡ Note
 
-This page is still evolving.
+This profile is continuously evolving.
