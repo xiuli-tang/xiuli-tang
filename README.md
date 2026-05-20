@@ -1,46 +1,63 @@
 <!-- ========================= -->
-<!--        PROFILE README     -->
+<!--      MINIMAL APPLE STYLE  -->
 <!-- ========================= -->
+
+<br/>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+I'm+Xiuli+Tang;Welcome+to+my+GitHub;Building+things+with+code"
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=28&pause=1500&color=111111&center=true&vCenter=true&width=800&lines=Xiuli+Tang"
   />
 </p>
 
----
+<p align="center" style="font-size:14px; color:#666;">
+  Developer · Builder · Explorer
+</p>
 
-# About Me
-
-Hi, I’m Xiuli Tang.
-
-I enjoy building software systems, exploring ideas through code, and turning concepts into working products.
+<br/>
 
 ---
+
+<br/>
+
+# About
+
+I build software systems and explore ideas through code.
+
+I care about clarity, structure, and how things work under the surface.
+
+<br/>
+
+---
+
+<br/>
 
 # Focus
 
-- Web application development  
-- System design & backend engineering  
+- Software engineering  
+- Web systems and interfaces  
 - Data-driven applications  
-- Interactive UI / frontend design  
+- Clean system design  
+
+<br/>
 
 ---
 
-# Tech Stack
+<br/>
 
-**Languages**
-- Python · Java · JavaScript · C++
+# Stack
 
-**Frameworks**
-- React · Node.js · Spring Boot
+Python · Java · JavaScript · C++  
+React · Node.js · Spring Boot  
+Linux · Git · Docker  
 
-**Tools**
-- Git · Docker · Linux
+<br/>
 
 ---
 
-# 🟩 Contribution Heatmap
+<br/>
+
+# Activity
 
 <p align="center">
   <img
@@ -48,48 +65,34 @@ I enjoy building software systems, exploring ideas through code, and turning con
   />
 </p>
 
-# 🧠 Development Metrics
+<br/>
+
+---
+
+<br/>
+
+# GitHub
 
 <p align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiuli-tang&theme=github"
+  height="140"
+  src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&hide_title=true&hide_border=true&theme=graywhite"
+/>
+
+<img
+  height="140"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&hide_border=true&theme=graywhite"
 />
 
 </p>
 
-<p align="center">
+<br/>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiuli-tang&theme=github"
-/>
+---
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiuli-tang&theme=github"
-/>
+<br/>
 
+<p align="center" style="color:#999; font-size:12px;">
+  Minimal profile · No decoration · Focus on content
 </p>
-
----
-
-# GitHub Insights (Advanced)
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=xiuli-tang&theme=default&hide_border=true"
-/>
-
-</p>
-
----
-
-# Contact
-
-- GitHub: https://github.com/xiuli-tang
-
----
-
-# Note
-
-This profile is continuously evolving.
