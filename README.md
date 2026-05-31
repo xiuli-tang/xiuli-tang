@@ -1,59 +1,63 @@
 <div align="center">
 
-<!-- 顶部视觉焦点：石青色背景与米白色文字的碰撞，采用更具艺术感的 Playfair 衬线字体 -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=36&pause=2000&color=F9F8F6&background=2B3A4C&center=true&vCenter=true&width=800&height=160&lines=Xiuli+Tang;Training+models.;Computing+reality." style="border-radius: 8px;" />
+<!-- 艺术画框：深石青色背景，米白与赭石色文字交织，充满呼吸感 -->
+<a href="https://github.com/xiuli-tang">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=32&pause=2000&color=F9F8F6&background=2B3A4C&center=true&vCenter=true&width=850&height=180&lines=Hi,+I'm+Xiuli+Tang+✨;Feeding+priors+into+algorithms.;Rescuing+heritage+from+pixels.;Computing+the+physical+world." style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+</a>
 
 <br><br>
 
-<!-- 赭石色副标题，增加优雅感 -->
-<p style="color: #A67D3D; font-style: italic; font-size: 16px;">
-  Bridging Algorithms, Science, and the Physical World
-</p>
-
-<!-- 自定义赭石色纤细分割线，取代粗糙的默认分割线 -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='2'%3E%3Crect fill='%23A67D3D' width='100%25' height='100%25'/%3E%3C/svg%3E" />
+<!-- 赭石色点缀：用 SVG 画一条极简的艺术分割线 -->
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='4'%3E%3Crect fill='%23A67D3D' width='100%25' height='100%25' rx='2'/%3E%3C/svg%3E" />
 
 </div>
 
 <br>
 
-### Ⅰ. Active Context
+### 🔮 What I'm Computing Right Now
 
-> 🔬 **Materials Discovery** <br>
-> Engineering the AMI-AL prototype, utilizing Bayesian optimization to screen solid-state insulators.
+*不要看我怎么定义自己，看看我的 GPU 正在跑什么：*
+
+> 🔋 **Hunting for Next-Gen Materials** <br>
+> Feeding physical priors into Bayesian optimization to search the massive chemical space for high-voltage solid-state insulators. (Currently building the AMI-AL prototype!) 
 >
-> ⚖️ **Decision Alignment** <br>
-> Training MADDPG multi-agent frameworks to optimize large-scale group consensus.
+> 🤝 **Teaching AI to Cooperate** <br>
+> Training MADDPG multi-agent frameworks to figure out how to trust each other and reach consensus faster in massive groups. 
 >
-> 🎭 **Heritage Reconstruction** <br>
-> Segmenting raw images of traditional shadow puppets via U-Net to build immersive 3D web experiences.
+> 🎭 **Rescuing Cultural Heritage** <br>
+> Pulling traditional shadow puppets out of flat, static photos. I use U-Net to segment them and bring them back to life in immersive 3D interactive web galleries.
 >
-> 🧠 **LLM Engineering** <br>
-> Deploying 70B-parameter models locally and wiring FAISS-based RAG pipelines.
+> 🧙‍♀️ **Taming LLM Beasts** <br>
+> Deploying 70B-parameter heavyweights on local Linux servers, currently wiring them up with FAISS to build a math-solving RAG pipeline. 
 
 <br>
 
-### Ⅱ. Tools of the Trade
-
-> **Intelligence** &nbsp; PyTorch · MADDPG · U-Net · BayesOpt <br>
-> **Architecture** &nbsp;&nbsp; Python · C++ · Linux · Docker <br>
-> **Research** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATLAB · Git · LaTeX
+<div align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='1'%3E%3Crect fill='%23E0DCD3' width='100%25' height='100%25'/%3E%3C/svg%3E" />
+</div>
 
 <br>
 
-### Ⅲ. Beyond the Terminal
+### ☕ Life Beyond the Terminal
 
-> 📷 **Photography** &nbsp; Capturing light, shadow, and geometry. <br>
-> 🎙️ **Debate** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deconstructing logic and structural arguments. <br>
-> 🏥 **Community** &nbsp;&nbsp; Navigating hospital wards (220+ hours).
+*当模型权重更新时，我会去物理世界找点乐子：*
+
+> 📸 **Chasing the Golden Hour** <br>
+> My camera roll is essentially a real-world dataset of light, shadow, and geometry.
+>
+> 🎙️ **Deconstructing Logic** <br>
+> Standing at the debate podium, ripping apart logical fallacies in real-time under high pressure (and having a lot of fun doing it).
+>
+> 🏥 **Navigating the Wards** <br>
+> Clocked 220+ hours weaving through hospital corridors and running children's charity events. 
 
 <br><br>
 
 <div align="center">
   <!-- 底部极简的石青色收尾点缀 -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='1'%3E%3Crect fill='%232B3A4C' width='100%25' height='100%25'/%3E%3C/svg%3E" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='4'%3E%3Crect fill='%232B3A4C' width='100%25' height='100%25' rx='2'/%3E%3C/svg%3E" />
   <br><br>
-  <p style="color: #2B3A4C; font-family: monospace; font-size: 13px;">
-    Code is poetry written for machines.
+  <p style="color: #666; font-style: italic; font-size: 13px;">
+    Code is just poetry that machines can execute.
   </p>
 </div>
