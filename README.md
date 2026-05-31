@@ -1,6 +1,3 @@
-<!-- ========================= -->
-<!--      MINIMAL APPLE STYLE  -->
-<!-- ========================= -->
 
 <br/>
 
@@ -69,5 +66,5 @@ Linux · Git · Docker
 
 
 <p align="center" style="color:#999; font-size:12px;">
-  Minimal profile · No decoration · Focus on content
+  Minimal profile
 </p>
