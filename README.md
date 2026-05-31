@@ -1,14 +1,7 @@
 <div align="center">
 
-<!-- 艺术画框：深石青色背景，米白与赭石色文字交织 -->
-<a href="https://github.com/xiuli-tang">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&amp;weight=500&amp;size=32&amp;pause=2000&amp;color=F9F8F6&amp;background=2B3A4C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=180&amp;lines=Hi,+I%27m+Xiuli+Tang+✨;Feeding+priors+into+algorithms.;Rescuing+heritage+from+pixels.;Computing+the+physical+world." alt="Xiuli's GitHub Intro" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=32&pause=2000&color=F9F8F6&background=2B3A4C&center=true&vCenter=true&width=850&height=180&lines=Hi,+I%27m+Xiuli+Tang+%E2%9C%A8;Feeding+priors+into+algorithms.;Rescuing+heritage+from+pixels.;Computing+the+physical+world.)](https://github.com/xiuli-tang)
 
-<br><br>
-
-<!-- 赭石色点缀：用 SVG 画一条极简的艺术分割线 -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='4'%3E%3Crect fill='%23A67D3D' width='100%25' height='100%25' rx='2'/%3E%3C/svg%3E" alt="divider" />
 
 </div>
 
