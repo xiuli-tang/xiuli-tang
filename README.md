@@ -6,7 +6,7 @@
 
 ### 🔮 What I'm Computing Right Now
 
-*不要看我怎么定义自己，看看我的 GPU 在跑什么：*
+*不要看我怎么定义自己，看看我的 GPU 在跑什么😀😀😀🌼🌼🌼：*
 
 > **Hunting for Next-Gen Materials**  
 > Feeding physical priors into Bayesian optimization to search chemical space for high-voltage solid-state insulators (building AMI-AL prototype).  
@@ -24,7 +24,7 @@
 
 ### ☕ Life Beyond the Terminal
 
-*当模型权重更新时，我会去物理世界找点乐子：*
+*当模型权重更新时，我会去物理世界找点乐子🎇🎇🎇：*
 
 > **Chasing the Golden Hour**  
 > Camera roll as a dataset of light, shadow, and geometry.  
