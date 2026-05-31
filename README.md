@@ -67,31 +67,6 @@ Linux · Git · Docker
 
 <br/>
 
----
-
-<br/>
-
-# GitHub
-
-<p align="center">
-
-<img
-  height="140"
-  src="https://github-readme-stats.vercel.app/api?username=xiuli-tang&show_icons=true&hide_title=true&hide_border=true&theme=graywhite"
-/>
-
-<img
-  height="140"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiuli-tang&layout=compact&hide_border=true&theme=graywhite"
-/>
-
-</p>
-
-<br/>
-
----
-
-<br/>
 
 <p align="center" style="color:#999; font-size:12px;">
   Minimal profile · No decoration · Focus on content
