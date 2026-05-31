@@ -1,70 +1,59 @@
+<div align="center">
 
-<br/>
+<!-- 顶部视觉焦点：石青色背景与米白色文字的碰撞，采用更具艺术感的 Playfair 衬线字体 -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=36&pause=2000&color=F9F8F6&background=2B3A4C&center=true&vCenter=true&width=800&height=160&lines=Xiuli+Tang;Training+models.;Computing+reality." style="border-radius: 8px;" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=28&pause=1500&color=111111&center=true&vCenter=true&width=800&lines=Xiuli+Tang"
-  />
+<br><br>
+
+<!-- 赭石色副标题，增加优雅感 -->
+<p style="color: #A67D3D; font-style: italic; font-size: 16px;">
+  Bridging Algorithms, Science, and the Physical World
 </p>
 
-<p align="center" style="font-size:14px; color:#666;">
-  Developer · Builder · Explorer
-</p>
+<!-- 自定义赭石色纤细分割线，取代粗糙的默认分割线 -->
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='2'%3E%3Crect fill='%23A67D3D' width='100%25' height='100%25'/%3E%3C/svg%3E" />
 
-<br/>
+</div>
 
----
+<br>
 
-<br/>
+### Ⅰ. Active Context
 
-# About
+> 🔬 **Materials Discovery** <br>
+> Engineering the AMI-AL prototype, utilizing Bayesian optimization to screen solid-state insulators.
+>
+> ⚖️ **Decision Alignment** <br>
+> Training MADDPG multi-agent frameworks to optimize large-scale group consensus.
+>
+> 🎭 **Heritage Reconstruction** <br>
+> Segmenting raw images of traditional shadow puppets via U-Net to build immersive 3D web experiences.
+>
+> 🧠 **LLM Engineering** <br>
+> Deploying 70B-parameter models locally and wiring FAISS-based RAG pipelines.
 
-I build software systems and explore ideas through code.
+<br>
 
-I care about clarity, structure, and how things work under the surface.
+### Ⅱ. Tools of the Trade
 
-<br/>
+> **Intelligence** &nbsp; PyTorch · MADDPG · U-Net · BayesOpt <br>
+> **Architecture** &nbsp;&nbsp; Python · C++ · Linux · Docker <br>
+> **Research** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATLAB · Git · LaTeX
 
----
+<br>
 
-<br/>
+### Ⅲ. Beyond the Terminal
 
-# Focus
+> 📷 **Photography** &nbsp; Capturing light, shadow, and geometry. <br>
+> 🎙️ **Debate** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deconstructing logic and structural arguments. <br>
+> 🏥 **Community** &nbsp;&nbsp; Navigating hospital wards (220+ hours).
 
-- Software engineering  
-- Web systems and interfaces  
-- Data-driven applications  
-- Clean system design  
+<br><br>
 
-<br/>
-
----
-
-<br/>
-
-# Stack
-
-Python · Java · JavaScript · C++  
-React · Node.js · Spring Boot  
-Linux · Git · Docker  
-
-<br/>
-
----
-
-<br/>
-
-# Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=xiuli-tang&theme=github-compact&hide_border=true"
-  />
-</p>
-
-<br/>
-
-
-<p align="center" style="color:#999; font-size:12px;">
-  Minimal profile
-</p>
+<div align="center">
+  <!-- 底部极简的石青色收尾点缀 -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='1'%3E%3Crect fill='%232B3A4C' width='100%25' height='100%25'/%3E%3C/svg%3E" />
+  <br><br>
+  <p style="color: #2B3A4C; font-family: monospace; font-size: 13px;">
+    Code is poetry written for machines.
+  </p>
+</div>
