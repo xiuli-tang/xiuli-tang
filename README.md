@@ -18,16 +18,16 @@
 
 *不要看我怎么定义自己，看看我的 GPU 正在跑什么：*
 
-> 🔋 **Hunting for Next-Gen Materials** <br>
+>  **Hunting for Next-Gen Materials** <br>
 > Feeding physical priors into Bayesian optimization to search the massive chemical space for high-voltage solid-state insulators. (Currently building the AMI-AL prototype!) 
 >
-> 🤝 **Teaching AI to Cooperate** <br>
+>  **Teaching AI to Cooperate** <br>
 > Training MADDPG multi-agent frameworks to figure out how to trust each other and reach consensus faster in massive groups. 
 >
-> 🎭 **Rescuing Cultural Heritage** <br>
+>  **Rescuing Cultural Heritage** <br>
 > Pulling traditional shadow puppets out of flat, static photos. I use U-Net to segment them and bring them back to life in immersive 3D interactive web galleries.
 >
-> 🧙‍♀️ **Taming LLM Beasts** <br>
+>  **Taming LLM Beasts** <br>
 > Deploying 70B-parameter heavyweights on local Linux servers, currently wiring them up with FAISS to build a math-solving RAG pipeline. 
 
 <br>
@@ -42,14 +42,11 @@
 
 *当模型权重更新时，我会去物理世界找点乐子：*
 
-> 📸 **Chasing the Golden Hour** <br>
+>  **Chasing the Golden Hour** <br>
 > My camera roll is essentially a real-world dataset of light, shadow, and geometry.
 >
-> 🎙️ **Deconstructing Logic** <br>
+>  **Deconstructing Logic** <br>
 > Standing at the debate podium, ripping apart logical fallacies in real-time under high pressure (and having a lot of fun doing it).
->
-> 🏥 **Navigating the Wards** <br>
-> Clocked 220+ hours weaving through hospital corridors and running children's charity events. 
 
 <br><br>
 
