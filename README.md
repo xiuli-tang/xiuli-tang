@@ -18,7 +18,7 @@
 > Using U-Net to segment shadow puppets and reconstruct them into interactive 3D web experiences.  
 >
 > **Taming LLM Beasts**  
-> Running 1.5B models locally and connecting them with FAISS for a math-solving RAG pipeline.
+> Running Q-wen models locally and connecting them with FAISS for a math-solving RAG pipeline.
 
 ---
 
