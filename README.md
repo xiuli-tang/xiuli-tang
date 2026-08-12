@@ -6,7 +6,7 @@
 
 ### 🔮 What I'm Computing Right Now
 
-*Hello！欢迎来到我的github仓库🌼🌼🌼正在建造中...：*
+*Hello！欢迎来到我的github仓库🌼🌼🌼：*
 
 > **Hunting for Next-Gen Materials**  
 > Feeding physical priors into Bayesian optimization to search chemical space for high-voltage solid-state insulators (building AMI-AL prototype).  
