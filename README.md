@@ -26,7 +26,7 @@
 
 ### ☕ Life Beyond the Terminal
 
-*除了探索代码世界的有意思的东西，我还会去物理世界找点乐子🎇：*
+*除了探索神奇的代码世界，我还会去物理世界找点乐子🎇：*
 
 > **Chasing the Golden Hour**  
 > Camera roll as a dataset of light, shadow, and geometry.  
