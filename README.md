@@ -34,7 +34,7 @@
 > **Deconstructing Logic & Channeling Inner Pleasant Goat**  
 > Debate podium under pressure, breaking arguments in real time, and tackling bugs with quick wit and relentless optimism.
 ---
-
+*Welcome to my profile—let's build something cool together!*
 <div align="center">
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='4'%3E%3Crect fill='%232B3A4C' width='100%25' height='100%25' rx='2'/%3E%3C/svg%3E" />
