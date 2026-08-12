@@ -8,15 +8,15 @@
 
 *Hello！欢迎来到我的github仓库🌼🌼🌼：*
 
-> **Taming LLM Beasts**  
-> Running Q-wen models locally and connecting them with FAISS for a math-solving RAG pipeline.
->
 >  **Teaching AI to Cooperate**  
 > Training MADDPG multi-agent systems for consensus in large-scale agent groups.
 > 
 > **Hunting for Next-Gen Materials**  
 > Feeding physical priors into Bayesian optimization to search chemical space for high-voltage solid-state insulators (building AMI-AL prototype).  
 >
+>  **Taming LLM Beasts**  
+> Running Q-wen models locally and connecting them with FAISS for a math-solving RAG pipeline.
+> 
 > **Rescuing Cultural Heritage**  
 > Using U-Net to segment shadow puppets and reconstruct them into interactive 3D web experiences.  
 >
