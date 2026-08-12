@@ -28,12 +28,11 @@
 
 *除了探索神奇的代码世界，我还会去物理世界找点乐子🎇：*
 
-> **Chasing the Golden Hour**  
-> Camera roll as a dataset of light, shadow, and geometry.  
+> **Chasing the Golden Hour & Good Food**  
+> Camera roll as a dataset of light, shadow, and geometry—usually followed by a bubbling hot pot.
 >
-> **Deconstructing Logic**  
-> Debate podium under pressure—breaking arguments in real time.
-
+> **Deconstructing Logic & Channeling Inner Pleasant Goat**  
+> Debate podium under pressure, breaking arguments in real time, and tackling bugs with quick wit and relentless optimism.
 ---
 
 <div align="center">
